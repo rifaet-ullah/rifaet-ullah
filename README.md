@@ -1,8 +1,29 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/51258654?v=4" style="border-radius: 50%;" width="150px;" alt="Rifaet Ullah">
-  <h1>Hi there, I'm Rifaet Ullah 👋</h1>
-  <p>Software Engineering, AI, Machine Learning, Android</p>
+  <h1>Hello there 👋</h1>
+  <p>AI / Machine Learning / Android Apps / Web Developer</p>
 </div>
+
+```bash
+#!/usr/bin/python
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Md. Rifaet - Ullah"
+        self.role = "Software Engineer"
+        self.language = {
+            "en": "English",
+            "bn": "Bangla",
+        }
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
 
 ---
 
@@ -38,25 +59,6 @@ I'm always eager to learn new technologies and contribute to innovative projects
 | **DevOps/Tools** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) |
 | **Testing** | `Pytest`, `UnitTest`, ![JUnit](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white) |
 | **Version Control** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
-
----
-
-### ✨ Featured Projects
-
-Here are a few projects that demonstrate my skills and experience:
-
-* **[Project 1 Title]**: **E-commerce Microservices Platform**
-    * Designed and implemented a scalable e-commerce backend using **Spring Boot microservices**, **Kafka** for asynchronous communication, and **PostgreSQL**.
-    * Deployed to **AWS EKS** with **Terraform** for infrastructure as code, showcasing robust CI/CD pipelines via Jenkins.
-    * **[[Repository Link]](https://github.com/YourUsername/project-1-repo)**
-* **[Project 2 Title]**: **Real-time Chat Application with WebSockets**
-    * Developed a full-stack real-time chat application using **React** for the frontend and **Node.js (Express) with Socket.IO** for the backend.
-    * Implemented user authentication, message persistence in **MongoDB**, and deployed to **Heroku**.
-    * **[[Repository Link]](https://github.com/YourUsername/project-2-repo)**
-* **[Project 3 Title]**: **Serverless Data Processing Pipeline**
-    * Built a serverless data pipeline on **AWS Lambda** and **DynamoDB** to process and analyze large datasets from S3, triggered by new file uploads.
-    * Optimized data ingestion and query performance, reducing processing costs by 30%.
-    * **[[Repository Link]](https://github.com/YourUsername/project-3-repo)**
 
 ---
 
