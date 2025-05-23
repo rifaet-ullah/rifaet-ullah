@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Rifaet - Ullah</h1>
 <h3 align="center">I'm an AI enthusiast with a passion for crafting intelligent systems and building scalable AI solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rifaet-ullah&label=Profile%20views&color=0e75b6&style=flat" alt="rifaet-ullah" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
