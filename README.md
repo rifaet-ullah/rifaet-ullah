@@ -27,7 +27,7 @@ me.say_hi()
 
 ---
 
-### 🚀 About Me
+### 🚀 About Me <div align="right">[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rifaet-ullah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:md.rifaetullahrifat@gmail.com)</div>
 I'm a passionate **Software Engineer** with experience in designing, developing, and deploying robust and scalable
  software solutions. My expertise spans across **full-stack web development**, **backend systems**, and
 **cloud-native applications**. I love tackling complex challenges and building efficient, maintainable, and user-friendly
@@ -66,11 +66,3 @@ I'm always eager to learn new technologies and contribute to innovative projects
 ![](https://github-readme-stats.vercel.app/api?username=rifaet-ullah&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br>
 ![](https://nirzak-streak-stats.vercel.app/?user=rifaet-ullah&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rifaet-ullah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-### 🌐 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rifaet-ullah)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:md.rifaetullahrifat@gmail.com)
-
----
